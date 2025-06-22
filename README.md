@@ -44,6 +44,7 @@ Always learning. Always building. 💪
 
 ### 🦷 Kallista – E-Commerce Website for Dental Clinic
 > Flask + PostgreSQL system for booking appointments online, with QR codes, notifications, and user authentication.
+> (https://github.com/FatimaElHaidari/kallista-clinic)
 
 ### 📱 CV Builder – Android App
 > Java + SQLite mobile app for building and editing resumes with sections like Education, Projects, Signature, and PDF export.
