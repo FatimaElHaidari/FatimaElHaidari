@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Fatima Al Haidari
 
-<!--
-**FatimaElHaidari/FatimaElHaidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Computer Science Graduate from USAL  University 
+💻 Junior .NET Developer | Web & Mobile Applications Builder  
+🌟 Passionate about building real-world solutions using modern technologies
 
-Here are some ideas to get you started:
+## 🔧 Projects
+- 🧠 **Face Recognition + Fire Detection** (Python, OpenCV)  
+- 🏥 **MediMeal Hospital System** (.NET Core, SignalR, SQL, Clean Arch)  
+- 🦷 **Kallista Dental Web App** (Flask, PostgreSQL, QR Code, Notifications)  
+- 📱 **CV Builder Mobile App** (Java, SQLite, Signature, PDF Export)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+- 📧 fatimaaelhaidari@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fatima-el-haidari-c0de1)  
+
+
