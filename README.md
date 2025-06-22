@@ -37,6 +37,7 @@ Always learning. Always building. 💪
 
 ### 🔥 Face Recognition + Fire Detection
 > Python + OpenCV system that detects unknown faces and fire events, sending real-time email alerts with identity and room info.
+> (https://github.com/FatimaElHaidari/face-recognition-fire-detection)
 
 ### 🏥 MediMeal – Healthcare Meal System
 > ASP.NET Core + SignalR web app for managing hospital meals, diet plans, real-time updates, and feedback.
